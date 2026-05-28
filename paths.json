@@ -2,8 +2,7 @@
   "mappings": [
     "/content/wknd-xwalk/:/",
     "/content/wknd-xwalk/configuration:/.helix/config.json",
-    "/content/wknd-xwalk/metadata:/metadata.json",
-    "/content/wknd-xwalk/redirects:/redirects.json"
+    "/content/wknd-xwalk/metadata:/metadata.json"
   ],
   "includes": [
     "/content/wknd-xwalk/"
